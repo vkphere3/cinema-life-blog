@@ -1,9 +1,9 @@
 const siteData = {
-  title: 'My Blog on everything cinema and everything life',
+  title: 'LoggedLife',
   author: 'Vikash Kumar',
   headerTitle: 'LoggedLife',
   profileUrl: '/nextjs-logo.png',
-  headerDescription: 'Starter Notion blog for Nextjs with Tailwind',
+  headerDescription: 'My Blog on everything cinema and everything life',
   footerText: '© All rights reserved',
   language: 'en-us',
   locale: 'en-US',
