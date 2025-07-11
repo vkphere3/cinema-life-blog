@@ -32,7 +32,7 @@ export default function SubscribeInput() {
 
     reset();
     fire();
-    toast.success('Check your email to confirm your subscription');
+    toast.success('Check your email to confirm your subscription.\n Make sure to check spam folder as well');
     return setFormState('success');
   };
 
